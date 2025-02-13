@@ -1,6 +1,8 @@
 # RL Recommendation System
 
 This project implements a personalized recommendation system using Reinforcement Learning (RL). The system simulates user sessions with a custom Gym environment and trains a DQN agent (via Stable Baselines3) to learn a recommendation policy.
+![Screenshot 2025-02-13 182527](https://github.com/user-attachments/assets/e864ac41-8246-4b41-b15e-2f9b97f78f1a)
+
 
 ## Folder Structure
 
