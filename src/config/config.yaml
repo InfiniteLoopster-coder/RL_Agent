@@ -1,0 +1,9 @@
+env:
+  num_items: 10
+  session_length: 20
+
+training:
+  total_timesteps: 10000
+  algorithm: "DQN"       # Currently only DQN is implemented.
+  policy: "MlpPolicy"
+  verbose: 1
